@@ -645,11 +645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jenkins\\Desktop\\Code\\FTP_Share\\FTP_Share.csproj",
+      "projectUniqueName": "C:\\Users\\jenkins\\Desktop\\New folder\\ftpshare\\FTP_Share.csproj",
       "projectName": "FTP_Share",
-      "projectPath": "C:\\Users\\jenkins\\Desktop\\Code\\FTP_Share\\FTP_Share.csproj",
+      "projectPath": "C:\\Users\\jenkins\\Desktop\\New folder\\ftpshare\\FTP_Share.csproj",
       "packagesPath": "C:\\Users\\jenkins\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jenkins\\Desktop\\Code\\FTP_Share\\obj\\",
+      "outputPath": "C:\\Users\\jenkins\\Desktop\\New folder\\ftpshare\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
