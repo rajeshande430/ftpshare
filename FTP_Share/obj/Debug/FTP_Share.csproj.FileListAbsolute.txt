@@ -1,0 +1,88 @@
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\FTP_Share.exe.config
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\FTP_Share.exe.manifest
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\FTP_Share.application
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\FTP_Share.exe
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\FTP_Share.pdb
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\MaterialDesignColors.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\MaterialDesignColors.pdb
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.Office.Client.Policy.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.ProjectServer.Client.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\bin\Debug\WpfAnimatedGif.dll
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.csprojAssemblyReference.cache
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\MainWindow.g.cs
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\ShareFTPForm.g.cs
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\App.g.cs
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share_MarkupCompile.cache
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share_MarkupCompile.lref
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\App.baml
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\MainWindow.baml
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\ShareFTPForm.baml
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.g.resources
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.Properties.Resources.resources
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.csproj.GenerateResource.cache
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.csproj.CoreCompileInputs.cache
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.exe.manifest
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.application
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.csproj.CopyComplete
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.exe
+E:\ERPM Archcorp\ERPM\DesktopApps\FTP_Share\FTP_Share\obj\Debug\FTP_Share.pdb
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\FTP_Share.exe.config
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\FTP_Share.exe.manifest
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\FTP_Share.application
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\FTP_Share.exe
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\FTP_Share.pdb
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\MaterialDesignColors.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\bin\Debug\WpfAnimatedGif.dll
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.csprojAssemblyReference.cache
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\MainWindow.g.cs
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\ShareFTPForm.g.cs
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\App.g.cs
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share_MarkupCompile.cache
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share_MarkupCompile.lref
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\App.baml
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\MainWindow.baml
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\ShareFTPForm.baml
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.g.resources
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.Properties.Resources.resources
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.csproj.GenerateResource.cache
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.csproj.CoreCompileInputs.cache
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.exe.manifest
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.application
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.csproj.CopyComplete
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.exe
+C:\Users\jenkins\Desktop\Code\FTP_Share\obj\Debug\FTP_Share.pdb
